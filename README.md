@@ -1,5 +1,3 @@
-# Анализ естественного языка методами искусственного интеллекта
+# 2025/2026 Анализ естественного языка методами искусственного интеллекта (очная)
 
-Natural Language Analysis using Artificial Intelligence Methods — NLAAIM-2025.
-
-[Описание курса](COURSE.md) · [Лекции](lecture/) · [Практические работы](practice/) · [Литература](LIBRARY.md)
+## Natural Language Analysis using Artificial Intelligence Methods
