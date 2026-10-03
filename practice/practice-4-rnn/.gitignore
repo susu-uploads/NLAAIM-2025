@@ -1,0 +1,15 @@
+# Локальные служебные файлы и данные этой практики
+/.data/
+
+# Temporary and local files for this practice
+/.cache/
+/.report/
+/.idea/artifacts/
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/modules.xml
+/.idea/*.iml
+/.idea/modules/
+/*.iml
+/*.ipr
+/.idea/inspectionProfiles/
