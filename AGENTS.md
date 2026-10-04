@@ -57,6 +57,7 @@ Start every `COURSE.md` and `TASK.md` with YAML frontmatter delimited by `---`. 
 | `code`   | Approved course directory name for a course card, or the containing practice directory name for an assignment card. |
 | `origin` | Canonical LMS URL of the exported course page or assignment.                                                        |
 
+- HTML comments are allowed only in unfilled scaffold cards in susu-course-template. Remove them from filled Markdown cards, including cards with confirmed empty descriptions; keep the body empty when no description is supplied.
 - Preserve already confirmed metadata values. Translate names for `en` and directory naming; retain the source language in exported descriptions.
 - Fill metadata from confirmed source data; keep `code` equal to the actual course or practice directory name. Preserve explicit provenance limitations on migrated legacy cards.
 - Copy educational text completely and in source order. Convert HTML to readable Markdown while preserving paragraphs, lists, emphasis, and working links.
